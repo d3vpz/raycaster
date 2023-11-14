@@ -81,8 +81,8 @@ let data = {
             colors: ['rgb(255, 241, 232)', 'rgb(194, 195, 199)'],
         },
         {
-            width: 16,
-            height: 16,
+            width: 64,
+            height: 64,
             id: 'texture',
             data: null,
         },
@@ -97,8 +97,8 @@ let data = {
     ],
     floorTextures: [
         {
-            width: 16,
-            height: 16,
+            width: 64,
+            height: 64,
             id: 'floor-texture',
             data: null,
         },
